@@ -1,6 +1,6 @@
 # [Musikinformationszentrums (MIZ)]([url](https://miz.org/de/kurse))-Scraper
 
-Dieses einfache Python-Skript habe ich geschrieben, um keine interessante Musikworkshops mehr zu verpassen.
+Dieses einfache Python-Skript habe ich geschrieben, um keine [interessante Musikworkshops]([url](https://miz.org/de/kurse)) mehr zu verpassen.
 
 ## Voraussetzungen
 
